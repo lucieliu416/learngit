@@ -3,5 +3,5 @@ create a new branch is quick
 
 =======
 create a new branch is quick
-this sentence means that I switvhed to dev
+this sentence means that I switvhed to + a
 >>>>>>> dev
